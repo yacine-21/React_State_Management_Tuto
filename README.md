@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+THIS IS A REACT PROJET, I FOLLOWED A TUTORIAL ON YOUTUBE, I'M LEARNING USING REACT SO HERE A SIMPLE List of movies hard coded , but with some state management : THE TUTO : https://www.youtube.com/watch?v=35lXWvCuM8o&ab_channel=DevEd
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
